@@ -26,15 +26,15 @@ Atualmente desenvolvendo projetos práticos para construção de portfólio em:
 
  Windows Hardening Lab
 
-Em breve:
-
  Linux Hardening Lab
 
  Python for Cybersecurity
 
- Home SOC Lab
+Vulnerability Assessment Lab
 
- Vulnerability Assessment Lab
+Em breve:
+
+ Home SOC Lab
 
 ---
 
